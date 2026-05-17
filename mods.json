@@ -1,0 +1,22 @@
+[
+  {
+    "id": "k073l-s1-modsapp",
+    "name": "Schedule I ModsApp Configurator",
+    "version": "1.0.0",
+    "author": "k073l",
+    "icon": "🍉",
+    "description": "A modular mapping framework configuration layout pulling dynamically from GitHub streaming endpoints.",
+    "is_pinned": true,
+    "download_url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/mods/modsapp_v1.zip"
+  },
+  {
+    "id": "melonloader-s1",
+    "name": "MelonLoader",
+    "version": "0.6.1",
+    "author": "LavaGang",
+    "icon": "🥝",
+    "description": "The premier mod loader configuration setup mapping target runtime engine scripts safely.",
+    "is_pinned": true,
+    "download_url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/mods/melonloader.zip"
+  }
+]
