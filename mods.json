@@ -7,7 +7,7 @@
     "icon": "🍉",
     "description": "A modular mapping framework configuration layout pulling dynamically from GitHub streaming endpoints.",
     "is_pinned": true,
-    "download_url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/mods/modsapp_v1.zip"
+    "download_url": "https://github.com/k073l/s1-modsapp/releases/download/v1.2.3/ModsApp.zip"
   },
   {
     "id": "melonloader-s1",
